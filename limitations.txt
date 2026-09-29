@@ -1,0 +1,5 @@
+The current version of this program has some limitations:
+
+The data is stored only while the program is running.
+Previous records are not saved permanently.
+The program does not correctly handle incorrect inputs.
