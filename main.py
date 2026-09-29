@@ -2,6 +2,8 @@ from datetime import datetime, timedelta
 
 print("\n--- Daily Health Habit Tracker ---\n")
 
+data={}
+
 water = int(input("Water (glasses): "))
 sleep = int(input("Sleep (hours): "))
 steps = int(input("Steps walked: "))
