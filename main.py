@@ -42,3 +42,4 @@ if days_count > 0:
     print("Average Exercise  :", total["exercise"] // days_count)
 else:
     print("No enough data for summary.")
+    input("press enter to exit")
